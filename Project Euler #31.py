@@ -10,6 +10,5 @@ def coin_sums(x):
     print(ways[200])
 
 coin_sums(0)
-
 end = time.time()
 print(end - start)
